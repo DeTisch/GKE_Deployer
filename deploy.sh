@@ -17,6 +17,8 @@ if [ -n "$1" ]; then
 
     gcloud config list project
 
+    cd ..
+
     git clone $1
 
     cd $project_name
