@@ -36,4 +36,4 @@ give execution rights
 
 start bash script
 
-`$ deploy {github url}`
+`$ deploy {repository clone url}`
