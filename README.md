@@ -1,13 +1,5 @@
 ﻿# GKE_Deployer
 
-## Author
-
----
-
-#### Name
-
-Miguel Aroldi
-
 ---
 
 ####  Github Username
@@ -37,3 +29,4 @@ give execution rights
 start bash script
 
 `$ deploy {repository clone url}`
+
